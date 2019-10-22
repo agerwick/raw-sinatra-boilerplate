@@ -1,6 +1,7 @@
 raw-sinatra-boilerplate
 =======================
 
+This repository is outdated, no longer serves a purpose, and is thus archived.
 
 [![Build Status](https://travis-ci.org/agerwick/raw-sinatra-boilerplate.svg?branch=master)](https://travis-ci.org/agerwick/raw-sinatra-boilerplate)
 [![Dependency Status](https://gemnasium.com/agerwick/raw-sinatra-boilerplate.svg)](https://gemnasium.com/agerwick/raw-sinatra-boilerplate)
